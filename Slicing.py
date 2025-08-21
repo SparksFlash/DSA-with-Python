@@ -6,3 +6,6 @@ print(li)
 # li2 = li[0:20:2]
 li2 = li[:40:3]
 print(li2)
+
+
+#okay
